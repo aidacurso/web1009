@@ -1,0 +1,27 @@
+.tudo{
+    margin: auto;
+    width: 960px;   
+}
+body{
+    background: #fff1ff;
+}
+.assunto{
+    margin-left: 0;
+    width: 880px;
+    float: center;
+}
+.titulo{
+    border-color: plum, rgb(255, 179, 242), rgb(255, 179, 242), plum ;
+    border: 1px solid rgb(211, 95, 211);
+    margin-bottom: 20px ;
+    padding: 10px;
+    background: rgb(219, 194, 248);
+}
+.titulo img{
+    width: 500px;
+    height: 300px;
+   border:1px solid plum;
+   float: right;
+   margin: 32px 15px 0 0;
+   padding: 10px;
+}
